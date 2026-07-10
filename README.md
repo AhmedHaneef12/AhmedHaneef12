@@ -3,8 +3,7 @@
 ### Data Scientist | Software Engineer | Machine Learning Enthusiast
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20MY%20WEBSITE-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ahmed-haneef" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 I don't just write code; I extract actionable insights from complex datasets to build **Intelligent Systems**. By combining solid Software Engineering principles from my studies at MUET with cutting-edge Data Science methodologies, I help businesses decode raw data into automated, predictive solutions.
@@ -32,33 +31,13 @@ I don't just write code; I extract actionable insights from complex datasets to 
 ## 🛠️ The Arsenal (Tech Stack)
 
 ### Data Science & ML
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SciKit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL">
-</p>
+* Python, Pandas, NumPy, SciKit-Learn, SQL
 
 ### Development & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Ahmed's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
-</p>
+* FastAPI, Git, VS Code, Jupyter
 
 ---
 
 "Focus strictly on accuracy, process automation, and turning raw data into absolute value."
 
-📫 Reach out via **LinkedIn** or email me directly to discuss your next data-driven project!
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-haneef) to discuss your next data-driven project!
