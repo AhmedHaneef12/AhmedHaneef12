@@ -3,8 +3,10 @@
 ### Data Scientist | Software Engineer | Machine Learning Enthusiast
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-haneef" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ahmed-haneef-4279732b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+
 
 I don't just write code; I extract actionable insights from complex datasets to build **Intelligent Systems**. By combining solid Software Engineering principles from my studies at MUET with cutting-edge Data Science methodologies, I help businesses decode raw data into automated, predictive solutions.
 
@@ -47,5 +49,8 @@ I don't just write code; I extract actionable insights from complex datasets to 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
+"Focus strictly on accuracy, process automation, and turning raw data into absolute value."
+
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-haneef-4279732b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios) to discuss your next data-driven project!
 
 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-haneef) to discuss your next data-driven project!
