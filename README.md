@@ -30,7 +30,7 @@ I don't just write code; I extract actionable insights from complex datasets to 
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+## 🛠️ The Tools (Tech Stack)
 
 ### Data Science & ML
 <p align="left">
