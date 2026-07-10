@@ -53,4 +53,3 @@ I don't just write code; I extract actionable insights from complex datasets to 
 
 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-haneef-4279732b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios) to discuss your next data-driven project!
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-haneef) to discuss your next data-driven project!
