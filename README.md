@@ -31,13 +31,21 @@ I don't just write code; I extract actionable insights from complex datasets to 
 ## 🛠️ The Arsenal (Tech Stack)
 
 ### Data Science & ML
-* Python, Pandas, NumPy, SciKit-Learn, SQL
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciKit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL">
+</p>
 
 ### Development & Frameworks
-* FastAPI, Git, VS Code, Jupyter
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
----
-
-"Focus strictly on accuracy, process automation, and turning raw data into absolute value."
 
 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-haneef) to discuss your next data-driven project!
